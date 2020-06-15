@@ -1,0 +1,16 @@
+#include<stdio.h>
+main()
+{
+ int n,i,j;
+Printf("enter no of rows");
+Scanf("%d",&n);
+For(i=0;i<n;i++)
+{
+For(j=0;j<=i;j++)
+  {
+ Printf("01");
+ } 
+   Printf("\n");
+    }
+
+}
